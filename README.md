@@ -4,3 +4,4 @@ I'll stash this change
 Updates in stage
 Another change
 Editing in vim
+REMOVE THIS LINE TO KEEP SYNCED WITH LOCAL
